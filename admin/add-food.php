@@ -2,7 +2,7 @@
 
 <div class="main-content">
     <div class="wrapper">
-        <h1>Add Food</h1>
+        <h1>Add Medicines</h1>
         <br>
 
         <?php

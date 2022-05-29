@@ -45,7 +45,7 @@
 
         <form action="" method="POST" class="order">
             <fieldset>
-                <legend>Selected Food</legend>
+                <legend>Selected Medicine</legend>
 
                 <div class="food-menu-img">
 

@@ -2,7 +2,7 @@
 
 
 
-    <!-- CAtegories Section Starts Here -->
+    <!-- CAtegories Section Starts Here Y-->
     <section class="categories">
         <div class="container">
             <h2 class="text-center">Explore Medicines</h2>

@@ -1,0 +1,88 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper {
+  padding: 1%;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.clearfix {
+  float: none;
+  clear: both;
+}
+
+.tbl-30 {
+  width: 30%;
+}
+
+.success {
+  color: #2ed573;
+}
+
+.error {
+  color: #ff4757;
+}
+
+/* CSS for menu */
+
+.menu {
+  border-bottom: 1px solid grey;
+}
+
+.menu ul {
+  list-style-type: none;
+}
+
+.menu ul li {
+  display: inline;
+  padding: 1%;
+}
+
+.menu ul li a {
+  text-decoration: none;
+  font-weight: bold;
+  color: crimson;
+}
+
+.menu ul li a:hover {
+  color: mediumblue;
+}
+
+/* CSS for main content */
+.main-content {
+  background-color: #f1f2f6;
+  padding: 3% 0;
+}
+
+.col-4 {
+  width: 18%;
+  background-color: white;
+  margin: 1%;
+  padding: 2%;
+  float: left;
+}
+
+/* CSS for footer */
+.footer {
+  background-color: crimson;
+  color: white;
+}
+
+/* CSS for login */
+
+.login{
+    border: 1px solid grey;
+    width: 28%;
+    margin: 10% auto;
+    padding: 2%;
+    border-radius: 24px;
+    background-color: #f1f2f6;
+}
